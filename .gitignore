@@ -1,0 +1,23 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# Java / Maven
+target/
+*.class
+.classpath
+.project
+.settings/
+# Binaries & data
+*.exe
+*.db
+*.sqlite
+*.raw
+.ipynb_checkpoints/
